@@ -1,15 +1,14 @@
 {
   "main": {
-    "name": "Lincoln Wasden",
-    "occupation": "CEO of CodeMyIdea",
-    "description": "I eat, sleep and breathe React",
+    "name": ", do you want a website or app?",
+    "occupation": "100% Success Rate",
+    "description": "We're looking for VC firms to work with",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Lincoln! I am a developer, finishing up the MIT xPro Certificate through MIT. I've been coding since highschool so going on 6 years now",
+    "bio": "We're ShareSpace! A business full of developers and designers, ready to code your idea into reality.",
     "contactmessage": "Get in touch with me to be apart of CodeMyIdea",
-    "email": "lincolncostudio@gmail.com",
+    "email": "sharespacesoftware@gmail.com",
     "phone": "801-709-1519",
     "address": {
-      "street": "123 Dev Lane",
       "city": "Provo",
       "state": "Utah",
       "zip": "W3B D3V"

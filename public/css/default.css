@@ -464,11 +464,11 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #11ABB0;
+   background: #ffffff;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
-   color: #fff;
+   color: rgb(0, 0, 0);
 	padding: 12px 20px;
 	margin-bottom: 18px;
    border: none;
@@ -492,7 +492,7 @@ button:hover,
 input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
-   background: #3d4145;
+   background: #000000;
    color: #fff;
 }
 
@@ -501,7 +501,7 @@ button:active,
 input[type="submit"]:active,
 input[type="reset"]:active,
 input[type="button"]:active {
-   background: #3d4145;
+   background: #28b120;
    color: #fff;
 }
 

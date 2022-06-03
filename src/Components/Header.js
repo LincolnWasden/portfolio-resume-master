@@ -6,7 +6,9 @@ const Header = ({ data }) => {
     var name = data.name;
     var occupation = data.occupation;
     var description = data.description;
+    var bio = data.bio;
     var city = data.address.city;
+    var state = data.address.state;
     var networks = data.social.map(function (network) {
       return (
         <li key={network.name}>
@@ -65,13 +67,14 @@ const Header = ({ data }) => {
       <div className="row banner">
         <div className="banner-text">
           <h1 className="responsive-headline">
-            <TypeWriter typing={0.5}>{name ? `Hey ${name}.` : null}</TypeWriter>
+            <TypeWriter typing={0.5}>{name ? `Hey${name}` : null}</TypeWriter>
           </h1>
           <h3>
-            Based in {city}. <span>{occupation}</span>. {description}.
+            <br/>
+            {bio} <br/> <span>{occupation}</span>.
           </h3>
           <hr />
-          <ul className="social">{networks}</ul>
+          <button>Work With ShareSpace</button>
         </div>
       </div>
 
