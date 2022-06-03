@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Lincoln Wasden",
+    "occupation": "CEO of CodeMyIdea",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Lincoln! I am a developer, finishing up the MIT xPro Certificate through MIT. I've been coding since highschool so going on 6 years now",
+    "contactmessage": "Get in touch with me to be apart of CodeMyIdea",
+    "email": "lincolncostudio@gmail.com",
+    "phone": "801-709-1519",
+    "address": {
+      "street": "123 Dev Lane",
+      "city": "Provo",
+      "state": "Utah",
+      "zip": "W3B D3V"
+    },
+    "website": "https://drive.google.com/file/d/1yTAkXeNfi3LrLKFzE_6DZtf7W6FmOiIN/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1yTAkXeNfi3LrLKFzE_6DZtf7W6FmOiIN/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/elder.lincoln.wasden",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lincoln-wasden/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/lincoln.wasden/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/LincolnWasden",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Massachusetts Institute of Technology (MIT)",
+        "degree": "Professional Certificate in Coding: Full Stack Development With MERN",
+        "graduated": "Current",
+        "description": "Graduating with First Class Honours",
+        "school1": "Brigham Young Univeristy",
+        "degree1": "Bachelor's Degree, Entrepreneurial Management & Minor in Computer Science",
+        "graduated1": "Current",
+        "description1": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "CodeMyIdea",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Making all apps possible. On the way to App-ify-ing the world! Building the CodeMyIdea Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+     
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Gourmet au Catering",
+        "category": "",
+        "image": "rest.png",
+        "url": "https://lincolnwasden.github.io/menusite/"
+      },
+      {
+        "title": "Eye's Tracking Mousing Software",
+        "category": "",
+        "image": "eye.png",
+        "url": "https://lincolnwasden.github.io/eyetracking/"
+      },
+      {
+        "title": "Other Portfolio Site",
+        "category": "",
+        "image": "port.png",
+        "url": "https://lincolnwasden.github.io/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Lincoln is absolutely excellent, his depth of knowledge & his skill really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Coding with Lincoln has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
